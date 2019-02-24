@@ -49,7 +49,7 @@ if ($action == "scan")
 
             <div style="float:left;margin-left:30px;padding:0px;">
 
-                <h1 style="margin-top:5px;margin-bottom: 0px;">HP Wifi Scanner</h1>
+                <h1 style="margin-top:5px;margin-bottom: 0px;">HP Wifi Scan</h1>
                 <?php
                 if ($ip != "")
                 {
