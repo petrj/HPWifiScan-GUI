@@ -8,4 +8,7 @@
 - optionally
     - sending scanned documents to email by PHPMailer (https://github.com/PHPMailer/PHPMailer)
 
+
+
+---
 ![HPWifiScan screenshot](screenshot.png)
