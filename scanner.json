@@ -1,0 +1,9 @@
+{
+    "ScanerIP":"192.168.1.15",
+    "HPWifiScanPath":"HPWifiScan.exe",
+    "EmailFrom":"sender@some-post-service",
+    "EmailTo":"email@some-post-service",
+    "EmailFromName":"HP Wifi Scanner",
+    "EmailSubject":"HP Wifi Scanner document",
+    "EmailBody":"See attachment"
+}
